@@ -9,7 +9,7 @@
 
 
 ※ デフォルトの Autocomplete のショートカットが、Control + Space で、Spotlight とバッティングする。変更はオートコンプリートのボタンの上で右クリックすると変更メニューがある。  
-![photo](photo/Scripting_for_Artist_autocomplete.png)
+![photo](Scripting_for_Artist_autocomplete.png)
 
 ---  
 
@@ -96,7 +96,7 @@ C.active_object.animation_data_create()
 ```
 
 データパスをコピー  
-![photo](photo/Scripting_for_Artist_DataPath.png)
+![photo](Scripting_for_Artist_DataPath.png)
 
 ---  
 
