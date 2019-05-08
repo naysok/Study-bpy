@@ -129,7 +129,7 @@ mymesh.from_pydata(verts, [], face)
 mymesh.update(calc_edges = True)
 
 ```
-![photo](photo/Nathan-s-Blender-Python-Create-Plane.png)  
+![photo](Nathan-s-Blender-Python-Create-Plane.png)  
 
 
 
@@ -153,7 +153,7 @@ bpy.context.scene.objects.link(object)
 mesh.from_pydata(verts, [], faces)
 mesh.update(calc_edges = True)
 ```
-![photo](photo/Nathan-s-Blender-Python-Create-Cube.png)  
+![photo](Nathan-s-Blender-Python-Create-Cube.png)  
 
 
 
@@ -179,7 +179,7 @@ mesh.from_pydata(verts, [], faces)
 mesh.update(calc_edges = True)
 
 ```
-![photo](photo/Nathan-s-Blender-Python-Create-Pyramid.png)  
+![photo](Nathan-s-Blender-Python-Create-Pyramid.png)  
 
 
 ---  
@@ -224,11 +224,11 @@ for p in mypolys:
 
 ```
 
-![photo](photo/Nathan-s-Blender-Python-Subdivide.png)  
+![photo](Nathan-s-Blender-Python-Subdivide.png)  
 
-![photo](photo/Nathan-s-Blender-Python-Subdivide-Levels.png)  
+![photo](Nathan-s-Blender-Python-Subdivide-Levels.png)  
 
-![photo](photo/Nathan-s-Blender-Python-Shading-Smooth.png)  
+![photo](Nathan-s-Blender-Python-Shading-Smooth.png)  
 
 
 ---  
@@ -305,7 +305,7 @@ for p in mypolys:
 
 ```
 
-![photo](photo/Nathan-s-Blender-Python-MathematicalMesh.png)  
+![photo](Nathan-s-Blender-Python-MathematicalMesh.png)  
 
 
 ---  
@@ -389,7 +389,7 @@ for p in mypolys:
 
 ```
 
-![photo](photo/Nathan-s-Blender-Python-RandomSurface.png)  
+![photo](Nathan-s-Blender-Python-RandomSurface.png)  
 
 
 ---  
@@ -505,6 +505,6 @@ for p in myploys:
 
 ```
 
-![photo](photo/Nathan-s-Blender-Python-Supershape.png)  
+![photo](Nathan-s-Blender-Python-Supershape.png)  
 
 ---  
