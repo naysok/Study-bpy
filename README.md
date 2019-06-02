@@ -2,14 +2,17 @@
 
 ### memo
 
-- bpy-csv
+- [bpy-csv](https://github.com/naysok/Study-bpy/blob/master/bpy-csv/bpy-csv.md)
   - Blender の Python で、csv ファイルにアクセスしキーフレームを打つ例。  
-    [bpy-csv.md](https://github.com/naysok/Study-bpy/blob/master/bpy-csv/bpy-csv.md)  
 
 
-- run_python_script  
+- [import_models_with_sequence](https://github.com/naysok/Study-bpy/blob/master/import_models_with_sequence/import_models_with_sequence.md)   
+  - もにょもにょなオブジェクト。  
+  - 連番の3Dモデルを読み込んで、キーフレームにアサインする。
+
+
+- [run_python_script](https://github.com/naysok/Study-bpy/blob/master/run_python_script/run_python_script.md)    
   - Python ファイルを実行する。  
-  [run_python_script.md](https://github.com/naysok/Study-bpy/blob/master/run_python_script/run_python_script.md)  
 
 
 ---  
