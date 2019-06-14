@@ -1,11 +1,15 @@
 ### WIMDOWS7
 
+### Models [1 to N]
+
+
+
 import bpy
 
 
 
 for i in range(60):
-    
+
     number = "%03d"%(i+1)
     tmp_name = "obj_" + number
 
